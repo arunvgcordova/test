@@ -7,6 +7,7 @@ void main(List<String> args) {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MyApp());
 }
+/////////////////////////////////
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
